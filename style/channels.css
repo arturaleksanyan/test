@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#content{
+    display: flex; 
+    flex-wrap: wrap;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+  
+}
+.items{
+    border: 1px solid black; 
+    margin: auto;
+}

@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#content{
+    display: flex; 
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+  
+}
+.form_items {
+    margin: 15px auto;
+}
+#username{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+}
+#password{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+}
+#login{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px; 
+}
